@@ -1,0 +1,13 @@
+# Tipos especificos
+*.rar
+*.zip
+*.txt
+
+# Arquivos especificos
+.history
+.vs
+.git
+
+# VSCode
+settings.json
+c_cpp_properties.json

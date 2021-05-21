@@ -1,6 +1,7 @@
 # Lua Good Habits
 > This project aims to teach programmers good practices and good optimization techniques on Lua.
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/600px-Lua-Logo.svg.png)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/600px-Lua-Logo.svg.png" height="300" width="300">
 
 ## Instalação
 Para executar qualquer código, é necessário um debugador Lua. Você pode utilizar um debugador online como o [Replit][repl] ou qualquer IDE como o [LuaEdit][luaedit]. 

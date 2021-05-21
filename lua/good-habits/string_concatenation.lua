@@ -11,7 +11,7 @@
 local txtResult = ""
 
 for line in io.lines('file.txt') do
-    txtResult = txtResult .. line 	-- Old variable 'result' is now memory garbage.
+    txtResult = txtResult .. line 	-- Old variable 'txtResult' is now memory garbage.
 end
 
 --	Corret Mode

@@ -4,15 +4,15 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/600px-Lua-Logo.svg.png" height="300" width="300">
 
 ## Instalação
-Para executar qualquer código, é necessário um debugador Lua. Você pode utilizar um debugador online como o [Replit][repl] ou qualquer IDE como o [LuaEdit][luaedit]. 
+To run any code, a Lua debugger is required. You can use an online debugger like [Replit] [repl] or any IDE like [LuaEdit] [luaedit]. 
 
 ## Contributing
 
-1. Faça o _fork_ do projeto (<https://github.com/Sttormx/lua-good-habits>)
-2. Crie uma _branch_ para sua modificação (`git checkout -b feature/fooBar`)
-3. Faça o _commit_ (`git commit -am 'Add some fooBar'`)
-4. _Push_ (`git push origin feature/fooBar`)
-5. Crie um novo _Pull Request_
+1. Fork it (<https://github.com/Sttormx/lua-good-habits>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
 
 [repl]: https://replit.com
 [luaedit]: http://luaedit.sourceforge.net/download.html
